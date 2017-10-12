@@ -1,0 +1,11 @@
+h1 { color: purple; }
+body {
+	background: lightblue;
+	color: darkblue;
+	font-size: 18pt;
+	font-family: 'Abel', sans-serif;
+	}
+	
+	a { color: darkblue;
+	text-decoration: none;}
+	a:hover {color: mediumslateblue; }
